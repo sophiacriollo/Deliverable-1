@@ -39,3 +39,5 @@ Below is a simplified wiring diagram for the robot:
 - **Motors**: Connect to the built-in motor driver terminals.
 
 Refer to the detailed diagram in the `/diagrams` folder.
+## Project Demo Video
+Watch the project demonstration here: [YouTube Link](https://youtu.be/Z-FalIKsMAY)
